@@ -7,6 +7,6 @@ description=This mod adds a simple recipe, "Dismantle Makeshift Radio", which re
 description=
 description=Requires a screwdriver and electrical lv 1, does not give XP for balance. Should work for your MP server since it's a simple recipe.
 description=
-description=This is made for friends on a private server, but comments and bug requests welcome.
+description=This is made for friends on a private server, but comments and bug reports welcome.
 tags=Build 41;Items;Multiplayer
 visibility=public
