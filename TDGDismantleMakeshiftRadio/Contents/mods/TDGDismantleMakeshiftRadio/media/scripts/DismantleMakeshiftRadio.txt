@@ -1,0 +1,18 @@
+module Base
+{
+    recipe Dismantle Makeshift Radio
+    {
+        destroy Radio.RadioMakeShift,
+        keep [Recipe.GetItemTypes.Screwdriver],
+        SkillRequired:Electricity=1,
+        Result:Radio.ElectricWire,
+        Time:50,
+        Category:Electrical,
+        OnCreate:TDG.OnCreate.DismantleMakeshiftRadio,
+        AnimNode:Disassemble,
+        Prop1:Screwdriver,
+        Prop2:Radio.RadioMakeShift,
+        Sound:Dismantle,
+    }
+}
+
