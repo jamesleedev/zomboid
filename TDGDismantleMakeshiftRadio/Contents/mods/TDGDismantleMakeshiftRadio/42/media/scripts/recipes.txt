@@ -1,0 +1,28 @@
+module TDG
+{
+	craftRecipe DismantleMakeshiftRadio
+	{
+		timedAction = DismantleElectrical,
+		Time = 50,
+		OnTest = Recipe.OnTest.DismantleElectronics,
+		Tags = InHandCraft;Electrical,
+		category = Electrical,
+		xpAward = Electricity:0,
+
+		inputs
+		{
+			item 1 [Base.RadioMakeShift] flags[NoBrokenItems] mode:destroy,
+			item 1 tags[Screwdriver] flags[MayDegradeLight;NoBrokenItems] mode:keep,
+		}
+		outputs
+		{
+			item 1 Base.ElectricWire,
+			item 2 Base.ElectronicsScrap,
+			item 2 Base.Aluminum,
+			item 1 Base.LightBulb,
+			item 1 Base.Amplifier,
+			item 1 Base.RadioReceiver,
+		}
+	}
+}
+

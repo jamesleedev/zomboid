@@ -1,7 +1,9 @@
-name=TDG's Dismantle Makeshift Radio
 id=TDG_DismantleMakeshiftRadio
+name=TDG's Dismantle Makeshift Radio
+icon=icon.png
 poster=poster.png
 description=Dismantle the annoying piles of makeshift radios. If you've put it together, you can take it apart after.
 author=thedoorguy
 modversion=1.0.1
+versionMin=42.0.0
 
