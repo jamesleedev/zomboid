@@ -1,6 +1,6 @@
 version=1
 id=3412550027
-title=[B41] TDG's Dismantle Makeshift Radio
+title=[B42/B41] TDG's Dismantle Makeshift Radio
 description=Ever get tired of makeshift radios piling up on the floor with no way of getting parts back even though you just made them...?
 description=
 description=This mod adds a simple recipe, "Dismantle Makeshift Radio", which returns all materials when a makeshift radio is dismantled.
@@ -10,5 +10,5 @@ description=
 description=This is made for friends on a private server, but comments and bug reports welcome.
 description=
 description=Updated for B42, requirements are exactly the same. There shouldn't be any issues, but make backups just in case.
-tags=Build 41;Items;Multiplayer
+tags=Build 42;Build 41;Items;Multiplayer
 visibility=public
