@@ -8,5 +8,7 @@ description=
 description=Requires a screwdriver and electrical lv 1, does not give XP for balance. Should work for your MP server since it's a simple recipe.
 description=
 description=This is made for friends on a private server, but comments and bug reports welcome.
+description=
+description=Updated for B42, requirements are exactly the same. There shouldn't be any issues, but make backups just in case.
 tags=Build 41;Items;Multiplayer
 visibility=public

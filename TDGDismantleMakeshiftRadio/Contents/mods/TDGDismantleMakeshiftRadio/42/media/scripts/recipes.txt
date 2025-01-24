@@ -8,6 +8,7 @@ module TDG
 		Tags = InHandCraft;Electrical,
 		category = Electrical,
 		xpAward = Electricity:0,
+		SkillRequired = Electricity:1,
 
 		inputs
 		{
