@@ -8,5 +8,7 @@ description=
 description=Since this mod doesn't modify anything else within the game, it should be safe to add to an existing save. But, always backup the Zomboid directory just in case.
 description=
 description=This was made for friends on a private server, but comments and bug reports welcome.
+description=
+description=Full credit to [url=https://steamcommunity.com/profiles/76561198059687231]PseudonymousEd[/url] and I will remove/deprecate upon request, or if SPP receives an update.
 tags=Build 41;Misc;Multiplayer;Silly/Fun
 visibility=public
