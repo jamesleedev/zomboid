@@ -1,0 +1,8 @@
+name=TDG's Simple Playable Grand Piano
+id=TDG_SimplePlayableGrandPiano
+poster=preview.png
+description=Simple Playable Pianos patch for the vanilla Black Grand Piano
+author=thedoorguy
+modversion=1.0.0
+require=SimplePlayablePianos4150
+

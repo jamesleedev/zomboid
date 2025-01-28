@@ -1,0 +1,13 @@
+version=1.0.0
+id=3412550027
+title=[B41] TDG's Simple Playable Grand Piano (SPP Patch)
+description=This is a patch for PseudonymousEd's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2465017864]Simple Playable Pianos[/url] which adds support for the Black Grand Piano.
+description=
+description=It works by adding a custom property, [code]CustomName: Piano[/code], to the grand piano keys tiles. This is detected by Simple Playable Pianos (SPP), and shows the relevant context options. [b]Note:[/b] Animations don't exist for the grand piano, and SPP defaults to the looting animation if I'm not mistaken.
+description=
+description=Since this mod doesn't modify anything else within the game, it should be safe to add to an existing save. But, always backup the Zomboid directory just in case.
+description=
+description=This was made for friends on a private server, but comments and bug reports welcome.
+description=
+tags=Build 41;Multiplayer
+visibility=public
